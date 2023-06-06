@@ -1,7 +1,7 @@
 # Go-High-Level-Interview-Test
 
 Code is for finding the unique keys of each complex object in any complex array. 
-Note: Element of array must be an object.
+Note: Each element of an array must be an object.
 Input:
 a =[
 { c: [{ d: 5}] },
